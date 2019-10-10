@@ -2,6 +2,7 @@ import React, {useEffect} from 'react';
 import buttons from './buttons'
 import './App.css';
 
+//Importing Sounds
 import KeyA from './sounds/clap.wav'
 import KeyS from './sounds/hihat.wav'
 import KeyD from './sounds/kick.wav'
@@ -31,6 +32,11 @@ const sounds = {
   76:KeyK
 }
 
+const handleClick = (keyPressed) =>{
+  let theSound = new Audio(sounds[keyPressed])
+  theSound.play()
+}
+
 useEffect(()=>{
   document.addEventListener('keydown',(event)=>{
     
@@ -45,10 +51,13 @@ useEffect(()=>{
 
 
   return (
-    <div className="App" >
+    <div className="main-container" >
       {buttons.map(button=>{
         return(
-          <button className="key-btn" name={button.buttonName}>{button.buttonText}</button>
+          <section className="button-container">
+            <button className="buttons" onClick={(e)=>{handleClick(button.buttonValue)}} name={button.buttonName}>{button.buttonText}</button>
+          </section>
+          
         )
       })}
 

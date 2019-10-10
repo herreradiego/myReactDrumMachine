@@ -1,22 +1,32 @@
-.App {
-  text-align: center;
+.main-container{
+  display:grid;
+display:flex;
+flex-direction: rows;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+  height: 100vh;
+  background: url("https://images.unsplash.com/photo-1535119512-9e6a24a532c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80") center center/cover no-repeat;
+  filter: grayscale(100%);
 }
 
-.App-logo {
-  height: 40vmin;
-}
+.buttons{
+  padding:10px;
+  
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  text-decoration: none;
 
-.App-link {
-  color: #09d3ac;
+
+
+  /* invisible border (will be colored on hover/focus) */
+  border: solid 1px transparent;
+  border-radius: 4px;
+
+  /* size comes from text & padding (no width/height) */
+  padding: 0.5em 1em;
+
+  /* make sure colors have enough contrast! */
+  color:yellow;
+  background-color: #9555af;
+  margin:5px;
 }
