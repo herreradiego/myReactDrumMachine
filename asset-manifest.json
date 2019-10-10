@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myReactDrumMachine/static/css/main.4bcd1516.chunk.css",
+    "main.js": "/myReactDrumMachine/static/js/main.1d2437ae.chunk.js",
+    "main.js.map": "/myReactDrumMachine/static/js/main.1d2437ae.chunk.js.map",
+    "runtime-main.js": "/myReactDrumMachine/static/js/runtime-main.4413319a.js",
+    "runtime-main.js.map": "/myReactDrumMachine/static/js/runtime-main.4413319a.js.map",
+    "static/js/2.42cb140b.chunk.js": "/myReactDrumMachine/static/js/2.42cb140b.chunk.js",
+    "static/js/2.42cb140b.chunk.js.map": "/myReactDrumMachine/static/js/2.42cb140b.chunk.js.map",
+    "index.html": "/myReactDrumMachine/index.html",
+    "precache-manifest.44ee1fb214dd63502b47c4490270cb6b.js": "/myReactDrumMachine/precache-manifest.44ee1fb214dd63502b47c4490270cb6b.js",
+    "service-worker.js": "/myReactDrumMachine/service-worker.js",
+    "static/css/main.4bcd1516.chunk.css.map": "/myReactDrumMachine/static/css/main.4bcd1516.chunk.css.map",
+    "static/media/boom.wav": "/myReactDrumMachine/static/media/boom.550be808.wav",
+    "static/media/clap.wav": "/myReactDrumMachine/static/media/clap.a6e86dd7.wav",
+    "static/media/hihat.wav": "/myReactDrumMachine/static/media/hihat.4ba39e07.wav",
+    "static/media/kick.wav": "/myReactDrumMachine/static/media/kick.4dd58595.wav",
+    "static/media/openhat.wav": "/myReactDrumMachine/static/media/openhat.a62db465.wav",
+    "static/media/ride.wav": "/myReactDrumMachine/static/media/ride.b0d70ec5.wav",
+    "static/media/snare.wav": "/myReactDrumMachine/static/media/snare.80c4129b.wav",
+    "static/media/tink.wav": "/myReactDrumMachine/static/media/tink.2a6bb6f5.wav",
+    "static/media/tom.wav": "/myReactDrumMachine/static/media/tom.572ed39d.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4413319a.js",
+    "static/js/2.42cb140b.chunk.js",
+    "static/css/main.4bcd1516.chunk.css",
+    "static/js/main.1d2437ae.chunk.js"
+  ]
+}
