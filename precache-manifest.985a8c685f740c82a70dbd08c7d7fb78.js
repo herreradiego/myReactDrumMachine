@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03090ed0972c2060ec0bc498ed7be5a1",
+    "revision": "db68c2f047ec156fd0b558a0e42d558e",
     "url": "/myReactDrumMachine/index.html"
   },
   {
-    "revision": "50ce503fa29321399cdc",
-    "url": "/myReactDrumMachine/static/css/main.4bcd1516.chunk.css"
+    "revision": "1f8dd001dd53e3c5f2e9",
+    "url": "/myReactDrumMachine/static/css/main.73d0023e.chunk.css"
   },
   {
-    "revision": "6e8b669ea521cfb1fe0f",
-    "url": "/myReactDrumMachine/static/js/2.42cb140b.chunk.js"
+    "revision": "b95b99dc1572293f4156",
+    "url": "/myReactDrumMachine/static/js/2.a51eb929.chunk.js"
   },
   {
-    "revision": "50ce503fa29321399cdc",
-    "url": "/myReactDrumMachine/static/js/main.15cebcb6.chunk.js"
+    "revision": "1f8dd001dd53e3c5f2e9",
+    "url": "/myReactDrumMachine/static/js/main.ca98a9a8.chunk.js"
   },
   {
     "revision": "474d84339da0f48daab8",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6e86dd7c2d3dee1ec0ad70c0d69df36",
     "url": "/myReactDrumMachine/static/media/clap.a6e86dd7.wav"
+  },
+  {
+    "revision": "38dc86e015207e95a0ccfc81e6f6a148",
+    "url": "/myReactDrumMachine/static/media/drum_machine_bck.38dc86e0.jpg"
   },
   {
     "revision": "4ba39e07d1f8d98b362b9b65d6544538",

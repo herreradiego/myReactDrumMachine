@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/myReactDrumMachine/static/css/main.4bcd1516.chunk.css",
-    "main.js": "/myReactDrumMachine/static/js/main.15cebcb6.chunk.js",
-    "main.js.map": "/myReactDrumMachine/static/js/main.15cebcb6.chunk.js.map",
+    "main.css": "/myReactDrumMachine/static/css/main.73d0023e.chunk.css",
+    "main.js": "/myReactDrumMachine/static/js/main.ca98a9a8.chunk.js",
+    "main.js.map": "/myReactDrumMachine/static/js/main.ca98a9a8.chunk.js.map",
     "runtime-main.js": "/myReactDrumMachine/static/js/runtime-main.4413319a.js",
     "runtime-main.js.map": "/myReactDrumMachine/static/js/runtime-main.4413319a.js.map",
-    "static/js/2.42cb140b.chunk.js": "/myReactDrumMachine/static/js/2.42cb140b.chunk.js",
-    "static/js/2.42cb140b.chunk.js.map": "/myReactDrumMachine/static/js/2.42cb140b.chunk.js.map",
+    "static/js/2.a51eb929.chunk.js": "/myReactDrumMachine/static/js/2.a51eb929.chunk.js",
+    "static/js/2.a51eb929.chunk.js.map": "/myReactDrumMachine/static/js/2.a51eb929.chunk.js.map",
     "index.html": "/myReactDrumMachine/index.html",
-    "precache-manifest.e17eb50316c2a16d1af7f0690f1727e3.js": "/myReactDrumMachine/precache-manifest.e17eb50316c2a16d1af7f0690f1727e3.js",
+    "precache-manifest.985a8c685f740c82a70dbd08c7d7fb78.js": "/myReactDrumMachine/precache-manifest.985a8c685f740c82a70dbd08c7d7fb78.js",
     "service-worker.js": "/myReactDrumMachine/service-worker.js",
-    "static/css/main.4bcd1516.chunk.css.map": "/myReactDrumMachine/static/css/main.4bcd1516.chunk.css.map",
+    "static/css/main.73d0023e.chunk.css.map": "/myReactDrumMachine/static/css/main.73d0023e.chunk.css.map",
     "static/media/boom.wav": "/myReactDrumMachine/static/media/boom.550be808.wav",
     "static/media/clap.wav": "/myReactDrumMachine/static/media/clap.a6e86dd7.wav",
+    "static/media/App.css": "/myReactDrumMachine/static/media/drum_machine_bck.38dc86e0.jpg",
     "static/media/hihat.wav": "/myReactDrumMachine/static/media/hihat.4ba39e07.wav",
     "static/media/kick.wav": "/myReactDrumMachine/static/media/kick.4dd58595.wav",
     "static/media/openhat.wav": "/myReactDrumMachine/static/media/openhat.a62db465.wav",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4413319a.js",
-    "static/js/2.42cb140b.chunk.js",
-    "static/css/main.4bcd1516.chunk.css",
-    "static/js/main.15cebcb6.chunk.js"
+    "static/js/2.a51eb929.chunk.js",
+    "static/css/main.73d0023e.chunk.css",
+    "static/js/main.ca98a9a8.chunk.js"
   ]
 }
